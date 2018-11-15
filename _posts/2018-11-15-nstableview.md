@@ -152,13 +152,13 @@ extension ViewController: NSTableViewDataSource, NSTableViewDelegate {
 Source code: [Github](https://github.com/kicsipixel/Cocoa-Samples/tree/master/NSTableView)
 
 
-[NSTableview1]: /jekyll-uno/images/NSTableView1.png
-[NSTableview1-1]: /jekyll-uno/images/NSTableView1-1.png
-[NSTableview1-2]: /jekyll-uno/images/NSTableView1-2.png
-[NSTableview1-3]: /jekyll-uno/images/NSTableView1-3.png
-[NSTableview1-4]: /jekyll-uno/images/NSTableView1-4.png
-[NSTableview1-5]: /jekyll-uno/images/NSTableView1-5.png
-[NSTableview1-6]: /jekyll-uno/images/NSTableView1-6.png
-[NSTableview1-7]: /jekyll-uno/images/NSTableView1-7.png
-[NSTableview1-8]: /jekyll-uno/images/NSTableView1-8.gif
-[NSTableview1-9]: /jekyll-uno/images/NSTableView1-9.gif
+[NSTableview1]:   /images/NSTableView1.png
+[NSTableview1-1]: /images/NSTableView1-1.png
+[NSTableview1-2]: /images/NSTableView1-2.png
+[NSTableview1-3]: /images/NSTableView1-3.png
+[NSTableview1-4]: /images/NSTableView1-4.png
+[NSTableview1-5]: /images/NSTableView1-5.png
+[NSTableview1-6]: /images/NSTableView1-6.png
+[NSTableview1-7]: /images/NSTableView1-7.png
+[NSTableview1-8]: /images/NSTableView1-8.gif
+[NSTableview1-9]: /images/NSTableView1-9.gif
