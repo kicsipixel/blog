@@ -2,7 +2,7 @@
 title: Flying blind - coding nonsense
 description: 'Strange advantures on the lands of Swift and Cocoa...'
 url: 'https://kicsipixel.github.io'
-baseurl: '/'
+baseurl: '/blog'
 google_analytics: 'UA-129304930-1'
 disqus_shortname: 'kicsipixel'
 

@@ -152,7 +152,7 @@ extension ViewController: NSTableViewDataSource, NSTableViewDelegate {
 Source code: [Github](https://github.com/kicsipixel/Cocoa-Samples/tree/master/NSTableView)
 
 
-[NSTableview1]:   blog/images/NSTableView1.png
+[NSTableview1]:   /blog/images/NSTableView1.png
 [NSTableview1-1]: /images/NSTableView1-1.png
 [NSTableview1-2]: /images/NSTableView1-2.png
 [NSTableview1-3]: /images/NSTableView1-3.png
